@@ -1,0 +1,4 @@
+kpi_id,kpi_name,definition,business_domain,calculation_logic,owner,related_dataset,status
+KPI001,Active Organisations,Number of organisations currently marked as active,Operations,Count of organisations where status = Active,Data Owner,CRM Organisations,Draft
+KPI002,Dataset Completeness Score,Percentage of required fields populated for a dataset,Data Quality,Populated required fields / Total required fields,Data Steward,All datasets,Draft
+KPI003,Monthly Energy Consumption,Total energy consumption recorded for a month,Energy,Sum of consumption_kwh by month,Data Owner,Energy Consumption,Draft

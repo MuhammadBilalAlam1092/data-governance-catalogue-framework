@@ -1,0 +1,4 @@
+rule_id,dataset_name,field_name,quality_dimension,rule_description,expected_result,severity,owner,status
+DQR001,CRM Organisations,organisation_id,Uniqueness,Organisation ID should be unique,No duplicate organisation IDs,High,Data Steward,Draft
+DQR002,CRM Organisations,organisation_name,Completeness,Organisation name should not be blank,100% populated,High,Data Steward,Draft
+DQR003,NHS ODS Organisations,postcode,Validity,Postcode should follow expected UK postcode format,Valid postcode format,Medium,Data Steward,Draft

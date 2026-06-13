@@ -1,0 +1,6 @@
+field_id,dataset_name,table_name,field_name,data_type,description,is_required,sensitivity_level,status
+FLD001,CRM Organisations,organisations,organisation_id,string,Unique identifier for an organisation,Yes,Internal,Draft
+FLD002,CRM Organisations,organisations,organisation_name,string,Registered or commonly used organisation name,Yes,Internal,Draft
+FLD003,CRM Organisations,organisations,postcode,string,Organisation postcode,No,Internal,Draft
+FLD004,NHS ODS Organisations,ods_organisations,ods_code,string,NHS organisation code,Yes,Public,Draft
+FLD005,Energy Consumption,energy_usage,consumption_kwh,decimal,Energy consumption recorded in kilowatt hours,Yes,Public,Draft

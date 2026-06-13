@@ -1,0 +1,4 @@
+dataset_id,dataset_name,business_domain,description,source_system,data_owner,data_steward,technical_owner,refresh_frequency,sensitivity_level,status
+DS001,CRM Organisations,Operations,Sample organisation and account records from CRM,CRM,Head of Operations,Data Steward,Data Engineer,Daily,Internal,Draft
+DS002,NHS ODS Organisations,Healthcare,Sample healthcare organisation reference data,NHS ODS,Data Owner,Data Steward,Data Engineer,Monthly,Public,Draft
+DS003,Energy Consumption,Energy,Sample energy consumption dataset for analytics and forecasting,Public Energy Dataset,Data Owner,Data Steward,Data Engineer,Monthly,Public,Draft

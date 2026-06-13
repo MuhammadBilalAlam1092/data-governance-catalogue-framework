@@ -1,0 +1,4 @@
+term_id,business_term,definition,business_domain,owner,related_dataset,status
+TERM001,Organisation,A business, charity, public body or community group recorded as a distinct entity,Operations,Data Owner,CRM Organisations,Draft
+TERM002,Facility,A physical asset or location where a service or activity can take place,Places,Data Owner,Active Places,Draft
+TERM003,Customer,A person or organisation receiving a service or product,Customer,Data Owner,CRM Organisations,Draft

@@ -46,24 +46,52 @@ This project is designed for:
 - Consultants helping organisations improve data maturity
 - Teams preparing metadata for AI-enabled analytics assistants
 
+
+## Current MVP Scope
+
+This first version focuses on creating a lightweight, reusable governance and catalogue framework that can be applied across multiple sectors.
+
+The MVP includes:
+
+- Governance operating model
+- Catalogue management process
+- Data quality framework
+- Dataset catalogue template
+- Business glossary template
+- KPI definition template
+- Data quality rules template
+- Sample catalogue records
+- Source-to-report lineage example
+- Case study explaining the problem, approach and impact
+
 ## Repository Structure
 
 ```text
 data-governance-catalogue-framework/
 │
 ├── docs/
+│   ├── catalogue-process.md
+│   ├── data-quality-framework.md
 │   └── operating-model.md
 │
-├── templates/
-│   └── dataset-catalogue-template.csv
-│
 ├── sample_catalogue/
-│   └── datasets.csv
+│   ├── data_sources.csv
+│   ├── datasets.csv
+│   ├── fields.csv
+│   ├── kpis.csv
+│   ├── lineage.csv
+│   └── reports.csv
 │
-├── diagrams/
-│   └── README.md
+├── templates/
+│   ├── business-glossary-template.csv
+│   ├── data-quality-rules-template.csv
+│   ├── dataset-catalogue-template.csv
+│   └── kpi-definition-template.csv
 │
 ├── case_study/
 │   └── governance-catalogue-case-study.md
+│
+├── diagrams/
+│   └── README.md
 │
 └── README.md

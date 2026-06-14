@@ -1,0 +1,2 @@
+kpi_id,kpi_name,business_definition,business_domain,calculation_logic,grain,filters,owner,related_dataset,related_report,status
+KPI001,Example KPI,Plain English definition of the KPI,Business Domain,Calculation logic or formula,Level of detail,Any standard filters,Data Owner,Related Dataset,Related Report,Draft

@@ -1,4 +1,4 @@
-# Data Quality Frameworkhttps://github.com/MuhammadBilalAlam1092/data-governance-catalogue-framework/tree/main/docs/docs
+# Data Quality Framework
 
 This document defines the data quality dimensions and rule structure used in the catalogue framework.
 

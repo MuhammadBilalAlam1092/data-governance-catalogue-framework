@@ -1,0 +1,7 @@
+lineage_id,source_name,dataset_name,table_name,field_name,kpi_name,report_name,notes
+LIN001,CRM System,CRM Organisations,organisations,organisation_id,Active Organisations,Organisation Overview Dashboard,Organisation ID is used as the primary identifier for organisation-level reporting
+LIN002,CRM System,CRM Organisations,organisations,organisation_name,Active Organisations,Organisation Overview Dashboard,Organisation name is used in report filters and tables
+LIN003,NHS ODS,NHS ODS Organisations,ods_organisations,ods_code,,Healthcare Organisation Reference Report,ODS code is used as the key healthcare organisation reference
+LIN004,Energy Consumption Dataset,Energy Consumption,energy_usage,consumption_kwh,Monthly Energy Consumption,Energy Consumption Trends,Consumption value is aggregated by month for energy trend analysis
+LIN005,Finance Portfolio Sample,Finance Portfolio Sample,portfolio_holdings,market_value,Portfolio Value,Portfolio Performance Dashboard,Market value is used to calculate total portfolio value
+LIN006,All Sources,All datasets,data_quality_rules,rule_id,Dataset Completeness Score,Data Quality Monitoring Report,Data quality rules are used to calculate dataset readiness and trust indicators

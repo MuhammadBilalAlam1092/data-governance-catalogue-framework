@@ -1,0 +1,6 @@
+source_id,source_name,source_type,business_domain,description,owner,refresh_frequency,access_method,sensitivity_level,status
+SRC001,CRM System,Operational System,Operations,Customer and organisation records used for relationship management,Head of Operations,Daily,API or Export,Internal,Draft
+SRC002,NHS ODS,Public Reference Data,Healthcare,Public reference data for healthcare organisations and sites,NHS Open Data,Monthly,Download or API,Public,Draft
+SRC003,Active Places,Public Reference Data,Sport and Physical Activity,Facility and venue reference data for sport and physical activity locations,Public Data Source,Monthly,Download or API,Public,Draft
+SRC004,Energy Consumption Dataset,Public Dataset,Energy,Sample energy consumption data for trend analysis and forecasting,Public Data Source,Monthly,CSV Download,Public,Draft
+SRC005,Finance Portfolio Sample,Sample Dataset,Finance,Sample investment portfolio data for performance and risk analytics,Portfolio Owner,Monthly,CSV Upload,Internal,Draft

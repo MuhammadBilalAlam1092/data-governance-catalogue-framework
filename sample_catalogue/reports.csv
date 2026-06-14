@@ -1,0 +1,6 @@
+report_id,report_name,business_domain,description,report_owner,tool,related_dataset,refresh_frequency,status
+RPT001,Organisation Overview Dashboard,Operations,Dashboard showing active organisations, locations and ownership status,Report Owner,Power BI,CRM Organisations,Daily,Draft
+RPT002,Healthcare Organisation Reference Report,Healthcare,Report showing healthcare organisations and reference attributes,Report Owner,Power BI,NHS ODS Organisations,Monthly,Draft
+RPT003,Energy Consumption Trends,Energy,Dashboard showing monthly energy consumption trends and forecast-ready outputs,Report Owner,Power BI,Energy Consumption,Monthly,Draft
+RPT004,Portfolio Performance Dashboard,Finance,Dashboard showing portfolio value, return and risk metrics,Report Owner,Power BI,Finance Portfolio Sample,Monthly,Draft
+RPT005,Data Quality Monitoring Report,Data Governance,Report showing data quality rule pass rates and dataset readiness,Governance Lead,Power BI,All datasets,Weekly,Draft
